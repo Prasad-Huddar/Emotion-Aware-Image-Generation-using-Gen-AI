@@ -141,4 +141,4 @@ result = run_pipeline("I just finished my final exam and I can't stop smiling!")
 
 ## License
 
-Specify your preferred license here (e.g. MIT).
+This project is licensed under the MIT License. See the LICENSE file for details.
