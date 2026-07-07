@@ -13,8 +13,7 @@ This project bridges natural language understanding and visual generative AI in 
 
 ## Architecture
 
-```
-<img width="1408" height="768" alt="Gemini_Generated_Image_88ocfc88ocfc88oc" src="https://github.com/user-attachments/assets/1834d045-1
+<img width="1408" height="768" alt="Gemini_Generated_Image_88ocfc88ocfc88oc" src="https://github.com/user-attachments/assets/78669f92-5186-45d2-99e9-ff1da520d850" />
 
 
 ## Repository Structure
@@ -118,4 +117,4 @@ result = run_pipeline("I just finished my final exam and I can't stop smiling!")
 
 ## License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
