@@ -107,6 +107,8 @@ result = run_pipeline("I just finished my final exam and I can't stop smiling!")
 # → Generated prompt: "student smiling after exam, joyful expression, realistic photo"
 # → Output: ranked images + captions + CLIP scores
 ```
+<img width="602" height="416" alt="Picture1" src="https://github.com/user-attachments/assets/204da343-1da1-45cf-98a9-c5f50e9e7601" />
+
 
 ## Future Improvements
 
