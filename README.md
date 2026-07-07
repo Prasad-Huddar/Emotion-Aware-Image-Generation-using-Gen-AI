@@ -14,31 +14,8 @@ This project bridges natural language understanding and visual generative AI in 
 ## Architecture
 
 ```
- Input Text
-     │
-     ▼
-┌─────────────────────┐
-│  RoBERTa Classifier  │  → fine-tuned on GoEmotions (28 → 7 emotions)
-│  (Emotion Detection) │
-└─────────┬────────────┘
-          ▼
-┌─────────────────────┐
-│  Dynamic Prompt       │  → maps emotion + scene keywords → text prompt
-│  Generator            │
-└─────────┬────────────┘
-          ▼
-┌─────────────────────┐
-│  Stable Diffusion     │  → Realistic Vision V5.1 + DPM++ scheduler
-│  (Image Generation)   │
-└─────────┬────────────┘
-          ▼
-┌─────────────────────┐
-│  BLIP Captioning +    │  → validates semantic alignment
-│  CLIP Ranking         │
-└─────────┬────────────┘
-          ▼
-   Final Ranked Image(s)
-```
+<img width="1408" height="768" alt="Gemini_Generated_Image_88ocfc88ocfc88oc" src="https://github.com/user-attachments/assets/1834d045-1
+
 
 ## Repository Structure
 
